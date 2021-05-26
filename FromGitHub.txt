@@ -1,4 +1,4 @@
-This is the file I added directly from GitHub.com
+This is the file I added directly from GitHub.com 
 
 
-Added some changes from local
+This is my co-worker adding changes and pushing to remote
